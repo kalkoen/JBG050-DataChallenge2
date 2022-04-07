@@ -1,0 +1,334 @@
+,names,codes
+0,Babergh,E07000200
+1,Bath and North East Somerset,E06000022
+2,"Bristol, City of",E06000023
+3,Forest of Dean,E07000080
+4,Mendip,E07000187
+5,Mid Devon,E07000042
+6,North Somerset,E06000024
+7,Rugby,E07000220
+8,Sedgemoor,E07000188
+9,South Gloucestershire,E06000025
+10,South Northamptonshire,E07000155
+11,South Somerset,E07000189
+12,Swansea,W06000011
+13,Somerset West and Taunton,E07000246
+14,Dorset,E06000059
+15,Bedford,E06000055
+16,Central Bedfordshire,E06000056
+17,County Durham,E06000047
+18,Dacorum,E07000096
+19,East Lindsey,E07000137
+20,Luton,E06000032
+21,North Hertfordshire,E07000099
+22,Adur,E07000223
+23,Allerdale,E07000026
+24,Amber Valley,E07000032
+25,Arun,E07000224
+26,Ashfield,E07000170
+27,Ashford,E07000105
+28,Aylesbury Vale,E07000004
+29,Barking and Dagenham,E09000002
+30,Barnet,E09000003
+31,Barnsley,E08000016
+32,Barrow-in-Furness,E07000027
+33,Basildon,E07000066
+34,Bassetlaw,E07000171
+35,Bexley,E09000004
+36,Birmingham,E08000025
+37,Blackburn with Darwen,E06000008
+38,Blackpool,E06000009
+39,Bolton,E08000001
+40,"Bournemouth, Christchurch and Poole",E06000058
+41,Bracknell Forest,E06000036
+42,Bradford,E08000032
+43,Braintree,E07000067
+44,Brent,E09000005
+45,Brentwood,E07000068
+46,Bridgend,W06000013
+47,Brighton and Hove,E06000043
+48,Bromley,E09000006
+49,Bromsgrove,E07000234
+50,Broxbourne,E07000095
+51,Broxtowe,E07000172
+52,Burnley,E07000117
+53,Caerphilly,W06000018
+54,Calderdale,E08000033
+55,Cambridge,E07000008
+56,Camden,E09000007
+57,Cannock Chase,E07000192
+58,Canterbury,E07000106
+59,Cardiff,W06000015
+60,Carlisle,E07000028
+61,Carmarthenshire,W06000010
+62,Castle Point,E07000069
+63,Charnwood,E07000130
+64,Chelmsford,E07000070
+65,Cheltenham,E07000078
+66,Cherwell,E07000177
+67,Cheshire East,E06000049
+68,Cheshire West and Chester,E06000050
+69,Chesterfield,E07000034
+70,Chichester,E07000225
+71,Chiltern,E07000005
+72,Chorley,E07000118
+73,City of London,E09000001
+74,Colchester,E07000071
+75,Conwy,W06000003
+76,Corby,E07000150
+77,Cornwall,E06000052
+78,Cotswold,E07000079
+79,Coventry,E08000026
+80,Crawley,E07000226
+81,Croydon,E09000008
+82,Darlington,E06000005
+83,Dartford,E07000107
+84,Denbighshire,W06000004
+85,Derby,E06000015
+86,Doncaster,E08000017
+87,Dover,E07000108
+88,Ealing,E09000009
+89,Eastbourne,E07000061
+90,East Cambridgeshire,E07000009
+91,East Devon,E07000040
+92,East Hampshire,E07000085
+93,East Hertfordshire,E07000242
+94,East Riding of Yorkshire,E06000011
+95,East Staffordshire,E07000193
+96,Elmbridge,E07000207
+97,Enfield,E09000010
+98,Epping Forest,E07000072
+99,Epsom and Ewell,E07000208
+100,Exeter,E07000041
+101,Flintshire,W06000005
+102,West Suffolk,E07000245
+103,Gateshead,E08000037
+104,Gedling,E07000173
+105,Gloucester,E07000081
+106,Gravesham,E07000109
+107,Great Yarmouth,E07000145
+108,Greenwich,E09000011
+109,Guildford,E07000209
+110,Gwynedd,W06000002
+111,Hackney,E09000012
+112,Halton,E06000006
+113,Hambleton,E07000164
+114,Hammersmith and Fulham,E09000013
+115,Haringey,E09000014
+116,Harlow,E07000073
+117,Harrow,E09000015
+118,Hastings,E07000062
+119,Havant,E07000090
+120,Havering,E09000016
+121,"Herefordshire, County of",E06000019
+122,Hertsmere,E07000098
+123,High Peak,E07000037
+124,Hillingdon,E09000017
+125,Hinckley and Bosworth,E07000132
+126,Horsham,E07000227
+127,Hounslow,E09000018
+128,Hyndburn,E07000120
+129,Ipswich,E07000202
+130,Isle of Anglesey,W06000001
+131,Isle of Wight,E06000046
+132,Islington,E09000019
+133,Kensington and Chelsea,E09000020
+134,Kettering,E07000153
+135,King's Lynn and West Norfolk,E07000146
+136,"Kingston upon Hull, City of",E06000010
+137,Kingston upon Thames,E09000021
+138,Kirklees,E08000034
+139,Knowsley,E08000011
+140,Lambeth,E09000022
+141,Lancaster,E07000121
+142,Leeds,E08000035
+143,Leicester,E06000016
+144,Lewes,E07000063
+145,Lewisham,E09000023
+146,Lichfield,E07000194
+147,Lincoln,E07000138
+148,Liverpool,E08000012
+149,Maidstone,E07000110
+150,Maldon,E07000074
+151,Malvern Hills,E07000235
+152,Manchester,E08000003
+153,Mansfield,E07000174
+154,Medway,E06000035
+155,Melton,E07000133
+156,Merthyr Tydfil,W06000024
+157,Merton,E09000024
+158,Middlesbrough,E06000002
+159,Mid Suffolk,E07000203
+160,Mid Sussex,E07000228
+161,Milton Keynes,E06000042
+162,Mole Valley,E07000210
+163,Monmouthshire,W06000021
+164,Neath Port Talbot,W06000012
+165,Newark and Sherwood,E07000175
+166,Newcastle upon Tyne,E08000021
+167,New Forest,E07000091
+168,Newham,E09000025
+169,Newport,W06000022
+170,Northampton,E07000154
+171,North Devon,E07000043
+172,North East Lincolnshire,E06000012
+173,Northumberland,E06000057
+174,Norwich,E07000148
+175,Nottingham,E06000018
+176,Nuneaton and Bedworth,E07000219
+177,Oldham,E08000004
+178,Oxford,E07000178
+179,Pembrokeshire,W06000009
+180,Peterborough,E06000031
+181,Plymouth,E06000026
+182,Portsmouth,E06000044
+183,Powys,W06000023
+184,Preston,E07000123
+185,Reading,E06000038
+186,Redbridge,E09000026
+187,Redcar and Cleveland,E06000003
+188,Redditch,E07000236
+189,Reigate and Banstead,E07000211
+190,Rhondda Cynon Taf,W06000016
+191,Richmond upon Thames,E09000027
+192,Rochdale,E08000005
+193,Rochford,E07000075
+194,Rother,E07000064
+195,Rotherham,E08000018
+196,Runnymede,E07000212
+197,Rushcliffe,E07000176
+198,Rushmoor,E07000092
+199,Ryedale,E07000167
+200,Salford,E08000006
+201,Sandwell,E08000028
+202,Scarborough,E07000168
+203,Sefton,E08000014
+204,Sevenoaks,E07000111
+205,Sheffield,E08000019
+206,Folkestone and Hythe,E07000112
+207,Shropshire,E06000051
+208,Slough,E06000039
+209,Solihull,E08000029
+210,Southampton,E06000045
+211,South Bucks,E07000006
+212,South Cambridgeshire,E07000012
+213,Southend-on-Sea,E06000033
+214,South Hams,E07000044
+215,South Kesteven,E07000141
+216,South Lakeland,E07000031
+217,South Norfolk,E07000149
+218,South Oxfordshire,E07000179
+219,South Tyneside,E08000023
+220,Southwark,E09000028
+221,Spelthorne,E07000213
+222,Stafford,E07000197
+223,St Albans,E07000240
+224,Stevenage,E07000243
+225,St. Helens,E08000013
+226,Stockport,E08000007
+227,Stockton-on-Tees,E06000004
+228,Stoke-on-Trent,E06000021
+229,East Suffolk,E07000244
+230,Sunderland,E08000024
+231,Surrey Heath,E07000214
+232,Sutton,E09000029
+233,Swale,E07000113
+234,Swindon,E06000030
+235,Tameside,E08000008
+236,Tamworth,E07000199
+237,Tandridge,E07000215
+238,Teignbridge,E07000045
+239,Telford and Wrekin,E06000020
+240,Tendring,E07000076
+241,Test Valley,E07000093
+242,Tewkesbury,E07000083
+243,Thanet,E07000114
+244,Vale of Glamorgan,W06000014
+245,Three Rivers,E07000102
+246,Thurrock,E06000034
+247,Tonbridge and Malling,E07000115
+248,Torbay,E06000027
+249,Torfaen,W06000020
+250,Tower Hamlets,E09000030
+251,Tunbridge Wells,E07000116
+252,Uttlesford,E07000077
+253,Wakefield,E08000036
+254,Walsall,E08000030
+255,Waltham Forest,E09000031
+256,Wandsworth,E09000032
+257,Warrington,E06000007
+258,Warwick,E07000222
+259,Watford,E07000103
+260,Waverley,E07000216
+261,Wealden,E07000065
+262,Welwyn Hatfield,E07000241
+263,West Berkshire,E06000037
+264,Westminster,E09000033
+265,Wigan,E08000010
+266,Wiltshire,E06000054
+267,Winchester,E07000094
+268,Windsor and Maidenhead,E06000040
+269,Wirral,E08000015
+270,Woking,E07000217
+271,Wokingham,E06000041
+272,Wolverhampton,E08000031
+273,Worcester,E07000237
+274,Worthing,E07000229
+275,Wychavon,E07000238
+276,Wycombe,E07000007
+277,Wyre,E07000128
+278,Wyre Forest,E07000239
+279,York,E06000014
+280,Fenland,E07000010
+281,Huntingdonshire,E07000011
+282,Hartlepool,E06000001
+283,Copeland,E07000029
+284,Eden,E07000030
+285,Bolsover,E07000033
+286,Derbyshire Dales,E07000035
+287,Erewash,E07000036
+288,North East Derbyshire,E07000038
+289,North West Leicestershire,E07000134
+290,South Derbyshire,E07000039
+291,Staffordshire Moorlands,E07000198
+292,Torridge,E07000046
+293,West Devon,E07000047
+294,Richmondshire,E07000166
+295,Blaenau Gwent,W06000019
+296,Ceredigion,W06000008
+297,Stroud,E07000082
+298,Bury,E08000002
+299,Rossendale,E07000125
+300,Trafford,E08000009
+301,North Lincolnshire,E06000013
+302,Fylde,E07000119
+303,Pendle,E07000122
+304,Ribble Valley,E07000124
+305,South Ribble,E07000126
+306,West Lancashire,E07000127
+307,Blaby,E07000129
+308,Harborough,E07000131
+309,North Warwickshire,E07000218
+310,Oadby and Wigston,E07000135
+311,Rutland,E06000017
+312,Boston,E07000136
+313,North Kesteven,E07000139
+314,South Holland,E07000140
+315,West Lindsey,E07000142
+316,Breckland,E07000143
+317,Broadland,E07000144
+318,North Norfolk,E07000147
+319,Wrexham,W06000006
+320,Craven,E07000163
+321,Harrogate,E07000165
+322,Selby,E07000169
+323,Daventry,E07000151
+324,East Northamptonshire,E07000152
+325,Wellingborough,E07000156
+326,North Tyneside,E08000022
+327,Newcastle-under-Lyme,E07000195
+328,South Staffordshire,E07000196
+329,Vale of White Horse,E07000180
+330,West Oxfordshire,E07000181
+331,Stratford-on-Avon,E07000221
+332,Dudley,E08000027
